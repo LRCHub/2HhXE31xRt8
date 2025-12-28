@@ -1,0 +1,45 @@
+# SOMETIME'S – Somebody
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+What I learned from mother
+譲れないものは
+馬鹿言い合える友と夢
+光るBling-bling ball 探し出す
+夢見がちいつものMy CRAP
+It's no laughing matter!
+ふざけあい囲むDiner
+飲み干した酒を注げ
+I gotta bang! Knockin' on me
+そろそろ出番は近いみたい
+変わらない景色彩る
+笑い声で色めき出す
+ストーリー描くよ
+I wanna play the piano like Herbie's feeling
+頭の中ではとっくにスター
+ああ夢から覚めない
+I wanna stay in Chicago 同じ風をFeeling
+足りない何か、したいこと指折り数えてる
+I wanna be "Somebody"
+散らかしたデスクに
+埋もれて消えていく
+広げたままにした地図だけを頼りに
+「To be or not to be」踏み出せないなら
+そのGood phrase のみならず
+You gotta find this お気楽なLIKE
+そこから輝き出していく
+偉そうに御託ならべ
+諦める理由(わけ)だらけ
+ありのまま輝きだす
+欠片探して
+I gotta play the piano もうKeep it real
+君の前でならとっくにスター
+また夢みて冷めない
+愛に応えて誓いのキスで君にGiving
+頭の中で描いても
+まだ言葉にできない
+だから I gotta be "Somebody" 君だけのために
+なりたい誰か、したいこと指折り数えていく
+I gotta be "Somebody"
+```
