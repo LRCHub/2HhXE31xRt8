@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Somebody",
+  "base_artist": "SOMETIME'S",
+  "createdAt": "2025-12-28T13:11:03.683423Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "(Hey Won't You Play) Another Somebody Done Somebody Wrong Song",
+      "artist": "B.J. Thomas",
+      "has_synced": false,
+      "path": "select/01_(Hey_Won't_You_Play)_Another_Somebody_Done_Somebody_Wrong_Song_B.J._Thomas.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Everybody Needs A Somebody",
+      "artist": "Kristian Bush",
+      "has_synced": true,
+      "path": "select/02_Everybody_Needs_A_Somebody_Kristian_Bush.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Everybody's Got Somebody But Me (Encore)",
+      "artist": "Hunter Hayes feat. Jason Mraz",
+      "has_synced": true,
+      "path": "select/03_Everybody's_Got_Somebody_But_Me_(Encore)_Hunter_Hayes_feat._Jason_Mraz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Everybody's Got Somebody but Me (feat. Jason Mraz) (Encore)",
+      "artist": "Hunter Hayes",
+      "has_synced": true,
+      "path": "select/04_Everybody's_Got_Somebody_but_Me_(feat._Jason_Mraz)_(Encore)_Hunter_Hayes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Get Drunk And Be Somebody",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/05_Get_Drunk_And_Be_Somebody_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Get Drunk And Be Somebody (Album Version)",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/06_Get_Drunk_And_Be_Somebody_(Album_Version)_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Know Somebody",
+      "artist": "Locash",
+      "has_synced": true,
+      "path": "select/07_I_Know_Somebody_Locash.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'm Gonna Be Somebody",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/08_I'm_Gonna_Be_Somebody_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'm Gonna Be Somebody (2006 Remaster)",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/09_I'm_Gonna_Be_Somebody_(2006_Remaster)_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'm Gonna Be Somebody (2006 Remastered Album Version)",
+      "artist": "Travis Tritt",
+      "has_synced": false,
+      "path": "select/10_I'm_Gonna_Be_Somebody_(2006_Remastered_Album_Version)_Travis_Tritt.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'm Gonna Be Somebody (Remastered LP Version)",
+      "artist": "Travis Tritt",
+      "has_synced": false,
+      "path": "select/11_I'm_Gonna_Be_Somebody_(Remastered_LP_Version)_Travis_Tritt.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kiss Somebody",
+      "artist": "Morgan Evans",
+      "has_synced": true,
+      "path": "select/12_Kiss_Somebody_Morgan_Evans.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Kiss Somebody",
+      "artist": "Morgan Evans",
+      "has_synced": true,
+      "path": "select/13_Kiss_Somebody_Morgan_Evans.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Somebody",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/14_Somebody_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Somebody (Album Version)",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/15_Somebody_(Album_Version)_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Somebody Else Will",
+      "artist": "Justin Moore",
+      "has_synced": true,
+      "path": "select/16_Somebody_Else_Will_Justin_Moore.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Somebody Else Will",
+      "artist": "Justin Moore",
+      "has_synced": true,
+      "path": "select/17_Somebody_Else_Will_Justin_Moore.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Somebody",
+      "artist": "SOMETIME'S",
+      "has_synced": false,
+      "path": "select/pl_01_Somebody_SOMETIME'S.txt"
+    }
+  ]
+}
